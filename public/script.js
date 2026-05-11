@@ -1,5 +1,4 @@
 let nome = prompt("Qual é o seu nome?");
-
 let entradaRenda;
 let renda;
 
