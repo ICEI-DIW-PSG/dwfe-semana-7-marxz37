@@ -35,7 +35,6 @@ for (let i = 0; i < qtdDespesas; i++)
     soma += valorDespesa;
 }
 
-
 let resultado = "";
 let sobra = renda - soma;
 
